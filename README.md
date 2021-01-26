@@ -1,4 +1,4 @@
-![alt text](Screen Shot 2021-01-17 at 1.05.49 PM.png "Twitter")
+![alt text](/Screen Shot 2021-01-17 at 1.05.49 PM.png "Twitter")
 
 ### Howdy howdy 🤠
 
