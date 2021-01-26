@@ -1,4 +1,6 @@
-### Hi there 👋
+![alt text](Screen Shot 2021-01-17 at 1.05.49 PM.png "Twitter")
+
+### Howdy howdy 🤠
 
 I am currently working on the Live Services team at Twitter. Through this team, I work on a variety of live streaming services and projects for the Twitter platform.
 
