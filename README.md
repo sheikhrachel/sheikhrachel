@@ -2,7 +2,7 @@
   <img src="img/twitter.jpg" />
 </p>
 
-<b align="center">Howdy howdy 🤠</b>
+<p align="center"><b>Howdy howdy 🤠</b></p>
 
 I am currently working on the Live Services team at Twitter. Through this team, I work on a variety of live streaming services and projects for the Twitter platform.
 
