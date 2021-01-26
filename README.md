@@ -1,4 +1,6 @@
-![alt text](img/twitter.jpg "Twitter")
+<p align="center">
+  <img src="img/twitter.jpg" />
+</p>
 
 ### Howdy howdy 🤠
 
