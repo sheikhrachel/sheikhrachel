@@ -1,4 +1,4 @@
-![alt text](img/twitter.png "Twitter")
+![alt text](img/twitter.jpg "Twitter")
 
 ### Howdy howdy 🤠
 
