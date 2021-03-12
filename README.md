@@ -4,7 +4,7 @@
 
 <p align="center"><b>Howdy howdy 🤠</b></p>
 
-I am currently working on the Live Services team at Twitter. Through this team, I work on a variety of live streaming services and projects for the Twitter platform.
+I am currently working on the Live Services team at Twitter, building out new features and gizmos under the hood to power Twitter Spaces!
 
 I largely align myself with backend engineering, and my languages of choice are Go and Python. I am extremely interested in projects relating to video/media streaming, distributed systems, and cloud technologies.
 
