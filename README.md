@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="img/twitter.jpg" />
-</p>
+Hey, I'm Rachel :)
 
-<p align="center"><b>Howdy howdy 🤠</b></p>
+Fun facts:
+- I have a fluffy husky/malamute named Hera
+- I teach Go/AWS fundamentals, and I love working on video and audio projects
+- I used to be an avid orchestral musician, and I taught myself most wind/string instruments
 
-I am currently working on the Live Services team at Twitter, driving a ton of fun and exciting features for our new Spaces product!
-
-I largely align myself with backend engineering, and my languages of choice are Go and Python. I am extremely interested in projects relating to video/media streaming, distributed systems, and cloud technologies.
-
-Previously, I led engineering efforts within State Farm's RED Labs, where we built out an Alexa/mobile-based experience to connect seniors with their community of friends and loved ones, and launched it under the name Sundial. Before that, I was a software engineer at Volkswagen's Innovation Labs and The Discovery Channel.
-
-When I'm not working on professional projects, I enjoy watching new movies/tv shows, going on adventures with my dog, and trying out new Tiktok recipes.
+Hit me up if you want to:
+- Hire a new Go engineer
+- Co-found a company together
+- Play Splatoon/League/Destiny
+- Talk about plant care
